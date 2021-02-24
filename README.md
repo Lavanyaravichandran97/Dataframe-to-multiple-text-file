@@ -1,2 +1,3 @@
 # Dataframe-to-multiple-text-file
-There is a dataframe which contains n number of rows and 3 columns. convert this dataframe into n number of text file.
+There is a dataframe which contains n number of rows and 3 columns. Under the column 'label' there are 5 categories namely business, entertainment, politics, sports and tech.
+Our objective is to convert each row of dataframe into each text file with respect to categories.
